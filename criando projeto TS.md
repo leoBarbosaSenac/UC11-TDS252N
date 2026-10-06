@@ -13,7 +13,7 @@ Inicializa um projeto Node.js.
 ## 2. Instalar TypeScript e Jest
 
 ```bash
-npm install -D typescript jest ts-jest @types/jest
+npm install -D typescript@6.0.3 jest ts-jest @types/jest
 ```
 
 Instala:
